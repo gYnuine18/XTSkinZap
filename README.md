@@ -1,1 +1,3 @@
 # XTSkinZap
+
+SkinZap identifies surface skin autofluorescence on zebrafish brain and removes it. This function binarise a 3D image based on a user defined threshold and a user defined size threshold to identify skin autofluorescence for removal.
